@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.2b17c194.css",
+    "main.js": "/my-portfolio/static/js/main.a4140475.js",
+    "static/js/787.fb771931.chunk.js": "/my-portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/color-sharp2.png": "/my-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/banner-bg.png": "/my-portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/my-portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/covid.JPG": "/my-portfolio/static/media/covid.bd5b8716950a7b80ce8d.JPG",
+    "static/media/CentraNo2-Bold.ttf": "/my-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/my-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/my-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/university.jpg": "/my-portfolio/static/media/university.8bb54e664a56932d0237.jpg",
+    "static/media/petlovers.jpg": "/my-portfolio/static/media/petlovers.fbc2d763603642fa074a.jpg",
+    "static/media/logo.svg": "/my-portfolio/static/media/logo.85f15871d9fa048ff6abf64dab9dc3f1.svg",
+    "static/media/nav-icon3.svg": "/my-portfolio/static/media/nav-icon3.71baebceeea07cc8e783c9b49ead43de.svg",
+    "index.html": "/my-portfolio/index.html",
+    "static/media/nav-icon1.svg": "/my-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.2b17c194.css.map": "/my-portfolio/static/css/main.2b17c194.css.map",
+    "main.a4140475.js.map": "/my-portfolio/static/js/main.a4140475.js.map",
+    "787.fb771931.chunk.js.map": "/my-portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b17c194.css",
+    "static/js/main.a4140475.js"
+  ]
+}
